@@ -1,11 +1,11 @@
-<h1 align="center">Мастерская замыслов</h1> 
-<img width="20%" align="right" alt="Image" src="https://github.com/user-attachments/assets/b512f008-89c5-4977-8b4d-9b5cb68cdf81" />
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/fc0b9d85-3a85-45ee-bd75-22bbc277bda7" />
+<img width="15%" align="right" alt="Image" src="https://github.com/user-attachments/assets/b512f008-89c5-4977-8b4d-9b5cb68cdf81" />
 <br><br>
 <pre>
     📖 Data Analyst
     💻 Beginning programmer
-    🎮 Sports Analyst
-    🐾 Creator-Amateur  
+    ⚽ Sports Analyst
+    🎨 Creator-Amateur  
 </pre>
 
 
