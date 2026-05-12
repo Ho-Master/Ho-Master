@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ho-Master&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ho-Master&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ho-Master&theme=dark_dimmed)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Ho-Master&icon=2&color=6)](https://visitcount.itsvg.in)
