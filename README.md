@@ -1,7 +1,12 @@
 <h1 align="center">Мастерская замыслов</h1> 
-<h3 align="center"><img width="160" height="160" alt="HOMAster" src="https://github.com/user-attachments/assets/50d05994-a637-46c9-a5a4-ca6036c1820b" /></h3> 
-# 💫 About Me:
-<br>Beginning programmer<br>Data Analyst<br>Sports Analyst<br>Creator-Amateur 
+<img width="20%" align="right" alt="Image" src="https://github.com/user-attachments/assets/b512f008-89c5-4977-8b4d-9b5cb68cdf81" />
+<br><br>
+<pre>
+    📖 Data Analyst
+    💻 Beginning programmer
+    🎮 Sports Analyst
+    🐾 Creator-Amateur  
+</pre>
 
 
 ## 🌐 Socials:
