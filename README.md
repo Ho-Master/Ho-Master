@@ -13,7 +13,13 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:homanats@gmail.com) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://github.com/user-attachments/assets/de04cb3b-406e-46ac-8634-10847b613d88 "Python") ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white "Numerical Python") ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white "Pandas Python")  
+![MySQL](https://github.com/user-attachments/assets/b3350223-685a-484e-9bdd-2c29cbac782b "MySQL") ![Postgres](https://github.com/user-attachments/assets/00f0545f-ff02-4c0e-accc-0f0e10c7904c "PostgreSQL")
+
+![Git](https://github.com/user-attachments/assets/82dfbba9-6547-4f29-a227-518910a567f2 "Git") 
+![Power Bi](https://github.com/user-attachments/assets/e8950d7c-ca7f-4308-be80-8cb9c77c8494 "PowerBi")
+
+![codewars](https://www.codewars.com/users/Ho-Master/badges/large "Codewars")
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ho-Master&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Ho-Master&theme=dark&hide_border=false)<br/>
