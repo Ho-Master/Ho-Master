@@ -10,7 +10,7 @@
 </pre>
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:homanats@gmail.com) 
+[![email](https://github.com/user-attachments/assets/d4b8713a-b37d-48a4-a9ae-8d94c5eb9b4d "homanats@gmail.com")](mailto:homanats@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://github.com/user-attachments/assets/de04cb3b-406e-46ac-8634-10847b613d88 "Python") ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white "Numerical Python") ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white "Pandas Python")  
